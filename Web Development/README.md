@@ -411,7 +411,6 @@ Simple tutorial with social sign in, tweeting, likes/hearts, comments/replies, p
         <td>Adobe Fonts provides access to a large library of high-quality fonts that you can use for web design. It's a paid service but offers excellent font customization options.</td>
     </tr>
     <tr>
-       <tr>
         <td><a href="https://www.dafont.com/">DaFont</a></td>
         <td>DaFont is a popular resource for free fonts, offering a wide range of styles. It's great for personal and non-commercial projects.</td>
     </tr>
@@ -800,6 +799,10 @@ Simple tutorial with social sign in, tweeting, likes/hearts, comments/replies, p
         <td>WhatFont enables you to easily identify the fonts used on a web page by simply hovering over the text.</td>
     </tr>
      <tr>
+        <td> <a href="https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc">Octotree</a></td>
+        <td>Octotree is a GitHub code tree extension that offers a convenient way to navigate and search through GitHub repositories.</td>
+    </tr>
+       <tr>
         <td> <a href="https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc">Octotree</a></td>
         <td>Octotree is a GitHub code tree extension that offers a convenient way to navigate and search through GitHub repositories.</td>
     </tr>
